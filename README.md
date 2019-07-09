@@ -4,7 +4,7 @@
 
 ## Topics
 
-- Middleware and applyMiddleware
+- Middleware and applyMiddleware 
 - redux-thunk
 - redux-logger
 
